@@ -1,0 +1,235 @@
+variable,grupo_a,grupo_b,media_a,media_b,U,p_u,p_u_bonf,significativo
+total_goals_match,Final,Final Round,1.4090909090909092,5.0,17.5,0.004517013740453909,0.35232707175540495,False
+total_goals_match,Final,First round,1.4090909090909092,3.8333333333333335,106.0,0.0004212510330160869,0.03285758057525478,True
+total_goals_match,Final,"First round, Replays",1.4090909090909092,4.0,8.0,0.12335030634616624,1.0,False
+total_goals_match,Final,Group Stage,1.4090909090909092,0.8177083333333334,9666.0,0.14402520964196563,1.0,False
+total_goals_match,Final,Preliminary round,1.4090909090909092,5.375,20.5,0.0010103266734504755,0.07880548052913709,False
+total_goals_match,Final,Quarter-final,1.4090909090909092,0.9459459459459459,884.5,0.47474543155033,1.0,False
+total_goals_match,Final,Round of 16,1.4090909090909092,1.0227272727272727,1045.0,0.5032944511235102,1.0,False
+total_goals_match,Final,Round of 32,1.4090909090909092,2.625,82.0,0.004456279288835458,0.3475897845291657,False
+total_goals_match,Final,Semi-final,1.4090909090909092,1.4,432.0,0.9019342688155491,1.0,False
+total_goals_match,Final,Third Place Play-off,1.4090909090909092,1.9285714285714286,144.5,0.7438109171791911,1.0,False
+total_goals_match,Final,Third-place match,1.4090909090909092,1.0,65.5,0.4705209921836493,1.0,False
+total_goals_match,Final,Third-place play-off,1.4090909090909092,1.5,20.0,0.8608022946517682,1.0,False
+total_goals_match,Final Round,First round,5.0,3.8333333333333335,99.5,0.15657403669352202,1.0,False
+total_goals_match,Final Round,"First round, Replays",5.0,4.0,8.0,0.6106295108191169,1.0,False
+total_goals_match,Final Round,Group Stage,5.0,0.8177083333333334,4368.5,1.752101191870072e-06,0.00013666389296586561,True
+total_goals_match,Final Round,Preliminary round,5.0,5.375,20.0,0.6451334569502989,1.0,False
+total_goals_match,Final Round,Quarter-final,5.0,0.9459459459459459,423.5,2.7863602817815665e-05,0.0021733610197896217,True
+total_goals_match,Final Round,Round of 16,5.0,1.0227272727272727,493.0,5.227742222509092e-05,0.004077638933557092,True
+total_goals_match,Final Round,Round of 32,5.0,2.625,86.0,0.004462038837198422,0.34803902930147695,False
+total_goals_match,Final Round,Semi-final,5.0,1.4,217.0,0.0007502593172492942,0.05852022674544495,False
+total_goals_match,Final Round,Third Place Play-off,5.0,1.9285714285714286,72.0,0.011537283719813727,0.8999081301454707,False
+total_goals_match,Final Round,Third-place match,5.0,1.0,26.5,0.038881770502986364,1.0,False
+total_goals_match,Final Round,Third-place play-off,5.0,1.5,11.5,0.09162846245445476,1.0,False
+total_goals_match,First round,"First round, Replays",3.8333333333333335,4.0,20.0,0.7333649394791139,1.0,False
+total_goals_match,First round,Group Stage,3.8333333333333335,0.8177083333333334,16143.0,6.782586159218836e-15,5.290417204190692e-13,True
+total_goals_match,First round,Preliminary round,3.8333333333333335,5.375,49.5,0.04329298759497668,1.0,False
+total_goals_match,First round,Quarter-final,3.8333333333333335,0.9459459459459459,1531.0,1.0941466450461232e-08,8.534343831359761e-07,True
+total_goals_match,First round,Round of 16,3.8333333333333335,1.0227272727272727,1795.0,1.3602676617687996e-08,1.0610087761796637e-06,True
+total_goals_match,First round,Round of 32,3.8333333333333335,2.625,251.0,0.09928444119029056,1.0,False
+total_goals_match,First round,Semi-final,3.8333333333333335,1.4,777.0,2.2296353300826692e-05,0.001739115557464482,True
+total_goals_match,First round,Third Place Play-off,3.8333333333333335,1.9285714285714286,253.5,0.00915443080106367,0.7140456024829662,False
+total_goals_match,First round,Third-place match,3.8333333333333335,1.0,100.0,0.021324860967573214,1.0,False
+total_goals_match,First round,Third-place play-off,3.8333333333333335,1.5,37.5,0.2059288047775436,1.0,False
+total_goals_match,"First round, Replays",Group Stage,4.0,0.8177083333333334,1416.5,0.008836894127688734,0.6892777419597212,False
+total_goals_match,"First round, Replays",Preliminary round,4.0,5.375,4.0,0.3441565757734172,1.0,False
+total_goals_match,"First round, Replays",Quarter-final,4.0,0.9459459459459459,137.0,0.01756820001466757,1.0,False
+total_goals_match,"First round, Replays",Round of 16,4.0,1.0227272727272727,159.0,0.023948843531508886,1.0,False
+total_goals_match,"First round, Replays",Round of 32,4.0,2.625,26.0,0.15969347389687094,1.0,False
+total_goals_match,"First round, Replays",Semi-final,4.0,1.4,69.5,0.06045062408981926,1.0,False
+total_goals_match,"First round, Replays",Third Place Play-off,4.0,1.9285714285714286,22.5,0.17121675643884393,1.0,False
+total_goals_match,"First round, Replays",Third-place match,4.0,1.0,8.5,0.19492445251365753,1.0,False
+total_goals_match,"First round, Replays",Third-place play-off,4.0,1.5,3.5,0.4142161782425252,1.0,False
+total_goals_match,Group Stage,Preliminary round,0.8177083333333334,5.375,249.0,1.6932454057327337e-08,1.3207314164715322e-06,True
+total_goals_match,Group Stage,Quarter-final,0.8177083333333334,0.9459459459459459,26747.0,0.29135293835400833,1.0,False
+total_goals_match,Group Stage,Round of 16,0.8177083333333334,1.0227272727272727,31547.5,0.19752502481974266,1.0,False
+total_goals_match,Group Stage,Round of 32,0.8177083333333334,2.625,1827.0,1.7851170762441111e-09,1.3923913194704066e-07,True
+total_goals_match,Group Stage,Semi-final,0.8177083333333334,1.4,12987.5,0.03772489801753248,1.0,False
+total_goals_match,Group Stage,Third Place Play-off,0.8177083333333334,1.9285714285714286,4343.0,0.11805309123687997,1.0,False
+total_goals_match,Group Stage,Third-place match,0.8177083333333334,1.0,1986.5,0.8659226804117534,1.0,False
+total_goals_match,Group Stage,Third-place play-off,0.8177083333333334,1.5,580.5,0.44914897142446497,1.0,False
+total_goals_match,Preliminary round,Quarter-final,5.375,0.9459459459459459,571.5,1.2200108949251502e-06,9.516084980416172e-05,True
+total_goals_match,Preliminary round,Round of 16,5.375,1.0227272727272727,667.0,2.266357682781328e-06,0.00017677589925694357,True
+total_goals_match,Preliminary round,Round of 32,5.375,2.625,118.0,0.0007822578723501882,0.06101611404331468,False
+total_goals_match,Preliminary round,Semi-final,5.375,1.4,292.5,0.00010551343556233505,0.008230047973862134,True
+total_goals_match,Preliminary round,Third Place Play-off,5.375,1.9285714285714286,97.0,0.00444282403915682,0.34654027505423196,False
+total_goals_match,Preliminary round,Third-place match,5.375,1.0,36.5,0.015983838364189117,1.0,False
+total_goals_match,Preliminary round,Third-place play-off,5.375,1.5,15.5,0.06343142528861123,1.0,False
+total_goals_match,Quarter-final,Round of 16,0.9459459459459459,1.0227272727272727,3229.0,0.9157816599549593,1.0,False
+total_goals_match,Quarter-final,Round of 32,0.9459459459459459,2.625,208.0,9.064255089612143e-06,0.0007070118969897471,True
+total_goals_match,Quarter-final,Semi-final,0.9459459459459459,1.4,1338.5,0.33221907845367904,1.0,False
+total_goals_match,Quarter-final,Third Place Play-off,0.9459459459459459,1.9285714285714286,442.5,0.31516453322198856,1.0,False
+total_goals_match,Quarter-final,Third-place match,0.9459459459459459,1.0,199.5,0.7354761914455732,1.0,False
+total_goals_match,Quarter-final,Third-place play-off,0.9459459459459459,1.5,59.0,0.5772983614496773,1.0,False
+total_goals_match,Round of 16,Round of 32,1.0227272727272727,2.625,258.0,9.491874626184145e-06,0.0007403662208423633,True
+total_goals_match,Round of 16,Semi-final,1.0227272727272727,1.4,1602.5,0.3495748037180646,1.0,False
+total_goals_match,Round of 16,Third Place Play-off,1.0227272727272727,1.9285714285714286,531.5,0.33811063802749897,1.0,False
+total_goals_match,Round of 16,Third-place match,1.0227272727272727,1.0,240.5,0.684340719408904,1.0,False
+total_goals_match,Round of 16,Third-place play-off,1.0227272727272727,1.5,71.5,0.6048694438397849,1.0,False
+total_goals_match,Round of 32,Semi-final,2.625,1.4,491.0,0.0012396978858582176,0.09669643509694098,False
+total_goals_match,Round of 32,Third Place Play-off,2.625,1.9285714285714286,154.0,0.07544230726146486,1.0,False
+total_goals_match,Round of 32,Third-place match,2.625,1.0,65.0,0.03740884306654131,1.0,False
+total_goals_match,Round of 32,Third-place play-off,2.625,1.5,21.0,0.506109706492022,1.0,False
+total_goals_match,Semi-final,Third Place Play-off,1.4,1.9285714285714286,263.5,0.7252146522898222,1.0,False
+total_goals_match,Semi-final,Third-place match,1.4,1.0,117.5,0.48744839945571483,1.0,False
+total_goals_match,Semi-final,Third-place play-off,1.4,1.5,35.5,0.7929340574388964,1.0,False
+total_goals_match,Third Place Play-off,Third-place match,1.9285714285714286,1.0,42.0,0.48585286396305305,1.0,False
+total_goals_match,Third Place Play-off,Third-place play-off,1.9285714285714286,1.5,13.5,1.0,1.0,False
+total_goals_match,Third-place match,Third-place play-off,1.0,1.5,4.0,0.809149834631498,1.0,False
+total_goals_team1,Final,Final Round,0.8181818181818182,3.6666666666666665,12.0,0.0015177135982334805,0.11838166066221148,False
+total_goals_team1,Final,First round,0.8181818181818182,2.9166666666666665,81.5,4.130406246235397e-05,0.0032217168720636096,True
+total_goals_team1,Final,"First round, Replays",0.8181818181818182,1.5,11.0,0.22892108936528632,1.0,False
+total_goals_team1,Final,Group Stage,0.8181818181818182,0.4596354166666667,10057.0,0.03657343441049366,1.0,False
+total_goals_team1,Final,Preliminary round,0.8181818181818182,3.75,12.5,0.00022298470585993739,0.017392807057075115,True
+total_goals_team1,Final,Quarter-final,0.8181818181818182,0.5405405405405406,927.5,0.22909540821549357,1.0,False
+total_goals_team1,Final,Round of 16,0.8181818181818182,0.625,1074.0,0.33905508940170914,1.0,False
+total_goals_team1,Final,Round of 32,0.8181818181818182,1.8125,82.5,0.004231713141714411,0.33007362505372406,False
+total_goals_team1,Final,Semi-final,0.8181818181818182,0.85,461.5,0.7206050389710268,1.0,False
+total_goals_team1,Final,Third Place Play-off,0.8181818181818182,0.8571428571428571,156.0,0.9556492524769634,1.0,False
+total_goals_team1,Final,Third-place match,0.8181818181818182,0.6,64.0,0.5391234525914284,1.0,False
+total_goals_team1,Final,Third-place play-off,0.8181818181818182,1.0,19.5,0.8148398630060913,1.0,False
+total_goals_team1,Final Round,First round,3.6666666666666665,2.9166666666666665,89.5,0.3640718069272081,1.0,False
+total_goals_team1,Final Round,"First round, Replays",3.6666666666666665,1.5,11.0,0.12192591953764717,1.0,False
+total_goals_team1,Final Round,Group Stage,3.6666666666666665,0.4596354166666667,4387.0,1.7061632159923608e-07,1.3308073084740413e-05,True
+total_goals_team1,Final Round,Preliminary round,3.6666666666666665,3.75,21.0,0.7350972587103696,1.0,False
+total_goals_team1,Final Round,Quarter-final,3.6666666666666665,0.5405405405405406,424.0,1.1719737600899398e-05,0.0009141395328701531,True
+total_goals_team1,Final Round,Round of 16,3.6666666666666665,0.625,492.0,2.9780930678320817e-05,0.002322912592909024,True
+total_goals_team1,Final Round,Round of 32,3.6666666666666665,1.8125,78.0,0.02348257636191921,1.0,False
+total_goals_team1,Final Round,Semi-final,3.6666666666666665,0.85,217.0,0.0004915814818259001,0.038343355582420205,True
+total_goals_team1,Final Round,Third Place Play-off,3.6666666666666665,0.8571428571428571,76.0,0.0032727694662203458,0.255276018365187,False
+total_goals_team1,Final Round,Third-place match,3.6666666666666665,0.6,27.0,0.029625477389272743,1.0,False
+total_goals_team1,Final Round,Third-place play-off,3.6666666666666665,1.0,11.0,0.12192591953764717,1.0,False
+total_goals_team1,First round,"First round, Replays",2.9166666666666665,1.5,37.5,0.19766191689820356,1.0,False
+total_goals_team1,First round,Group Stage,2.9166666666666665,0.4596354166666667,16742.5,9.159853251831112e-20,7.144685536428267e-18,True
+total_goals_team1,First round,Preliminary round,2.9166666666666665,3.75,61.5,0.12816933332744204,1.0,False
+total_goals_team1,First round,Quarter-final,2.9166666666666665,0.5405405405405406,1607.0,6.446410841126754e-11,5.028200456078868e-09,True
+total_goals_team1,First round,Round of 16,2.9166666666666665,0.625,1857.0,3.353410171241343e-10,2.6156599335682474e-08,True
+total_goals_team1,First round,Round of 32,2.9166666666666665,1.8125,263.0,0.04397821774500581,1.0,False
+total_goals_team1,First round,Semi-final,2.9166666666666665,0.85,815.0,1.2381864683445507e-06,9.657854453087495e-05,True
+total_goals_team1,First round,Third Place Play-off,2.9166666666666665,0.8571428571428571,280.5,0.0004921978427386271,0.03839143173361292,True
+total_goals_team1,First round,Third-place match,2.9166666666666665,0.6,103.0,0.012228051520238713,0.9537880185786196,False
+total_goals_team1,First round,Third-place play-off,2.9166666666666665,1.0,39.5,0.1375207995696211,1.0,False
+total_goals_team1,"First round, Replays",Group Stage,1.5,0.4596354166666667,1334.0,0.013035896761783222,1.0,False
+total_goals_team1,"First round, Replays",Preliminary round,1.5,3.75,0.5,0.05849515503293294,1.0,False
+total_goals_team1,"First round, Replays",Quarter-final,1.5,0.5405405405405406,125.0,0.043085718689880974,1.0,False
+total_goals_team1,"First round, Replays",Round of 16,1.5,0.625,143.0,0.0684065067056101,1.0,False
+total_goals_team1,"First round, Replays",Round of 32,1.5,1.8125,12.5,0.6560959894954301,1.0,False
+total_goals_team1,"First round, Replays",Semi-final,1.5,0.85,62.5,0.13544609660108028,1.0,False
+total_goals_team1,"First round, Replays",Third Place Play-off,1.5,0.8571428571428571,20.0,0.32710690685446675,1.0,False
+total_goals_team1,"First round, Replays",Third-place match,1.5,0.6,8.0,0.2853768809059243,1.0,False
+total_goals_team1,"First round, Replays",Third-place play-off,1.5,1.0,2.5,1.0,1.0,False
+total_goals_team1,Group Stage,Preliminary round,0.4596354166666667,3.75,238.5,8.7036304515979e-10,6.788831752246362e-08,True
+total_goals_team1,Group Stage,Quarter-final,0.4596354166666667,0.5405405405405406,26753.0,0.2540938057877483,1.0,False
+total_goals_team1,Group Stage,Round of 16,0.4596354166666667,0.625,31110.0,0.0955514902213579,1.0,False
+total_goals_team1,Group Stage,Round of 32,0.4596354166666667,1.8125,1688.5,1.9276856248280272e-11,1.5035947873658611e-09,True
+total_goals_team1,Group Stage,Semi-final,0.4596354166666667,0.85,13264.5,0.046300796631500066,1.0,False
+total_goals_team1,Group Stage,Third Place Play-off,0.4596354166666667,0.8571428571428571,4512.0,0.15539259596045069,1.0,False
+total_goals_team1,Group Stage,Third-place match,0.4596354166666667,0.6,1907.0,0.9722630146633828,1.0,False
+total_goals_team1,Group Stage,Third-place play-off,0.4596354166666667,1.0,538.5,0.313623673520703,1.0,False
+total_goals_team1,Preliminary round,Quarter-final,3.75,0.5405405405405406,574.0,3.62506696565523e-07,2.8275522332110794e-05,True
+total_goals_team1,Preliminary round,Round of 16,3.75,0.625,667.0,1.0259448884433097e-06,8.002370129857816e-05,True
+total_goals_team1,Preliminary round,Round of 32,3.75,1.8125,113.0,0.0020767337886930855,0.16198523551806068,False
+total_goals_team1,Preliminary round,Semi-final,3.75,0.85,293.0,6.148008228912126e-05,0.004795446418551458,True
+total_goals_team1,Preliminary round,Third Place Play-off,3.75,0.8571428571428571,104.5,0.0006139053750063025,0.047884619250491596,True
+total_goals_team1,Preliminary round,Third-place match,3.75,0.6,37.0,0.011685752742302739,0.9114887138996136,False
+total_goals_team1,Preliminary round,Third-place play-off,3.75,1.0,15.5,0.05849515503293294,1.0,False
+total_goals_team1,Quarter-final,Round of 16,0.5405405405405406,0.625,3174.0,0.7318203908792729,1.0,False
+total_goals_team1,Quarter-final,Round of 32,0.5405405405405406,1.8125,177.5,6.987972001502049e-07,5.450618161171598e-05,True
+total_goals_team1,Quarter-final,Semi-final,0.5405405405405406,0.85,1359.0,0.3797777138229792,1.0,False
+total_goals_team1,Quarter-final,Third Place Play-off,0.5405405405405406,0.8571428571428571,456.5,0.38671209071012336,1.0,False
+total_goals_team1,Quarter-final,Third-place match,0.5405405405405406,0.6,192.0,0.8681334481117613,1.0,False
+total_goals_team1,Quarter-final,Third-place play-off,0.5405405405405406,1.0,54.5,0.43997774371902,1.0,False
+total_goals_team1,Round of 16,Round of 32,0.625,1.8125,256.0,4.442553003549215e-06,0.0003465191342768388,True
+total_goals_team1,Round of 16,Semi-final,0.625,0.85,1658.0,0.5245399658645178,1.0,False
+total_goals_team1,Round of 16,Third Place Play-off,0.625,0.8571428571428571,563.0,0.529750333373518,1.0,False
+total_goals_team1,Round of 16,Third-place match,0.625,0.6,233.5,0.7820212482136395,1.0,False
+total_goals_team1,Round of 16,Third-place play-off,0.625,1.0,69.0,0.5313643053320185,1.0,False
+total_goals_team1,Round of 32,Semi-final,1.8125,0.85,503.0,0.0004029514475196163,0.03143021290653007,True
+total_goals_team1,Round of 32,Third Place Play-off,1.8125,0.8571428571428571,167.5,0.017133447057484014,1.0,False
+total_goals_team1,Round of 32,Third-place match,1.8125,0.6,64.0,0.04515370919441546,1.0,False
+total_goals_team1,Round of 32,Third-place play-off,1.8125,1.0,22.5,0.37695395893228034,1.0,False
+total_goals_team1,Semi-final,Third Place Play-off,0.85,0.8571428571428571,271.5,0.8527988065266576,1.0,False
+total_goals_team1,Semi-final,Third-place match,0.85,0.6,112.0,0.6198480462252113,1.0,False
+total_goals_team1,Semi-final,Third-place play-off,0.85,1.0,33.5,0.678467308260746,1.0,False
+total_goals_team1,Third Place Play-off,Third-place match,0.8571428571428571,0.6,39.0,0.6926175526733251,1.0,False
+total_goals_team1,Third Place Play-off,Third-place play-off,0.8571428571428571,1.0,12.5,0.8523688183142678,1.0,False
+total_goals_team1,Third-place match,Third-place play-off,0.6,1.0,4.0,0.809149834631498,1.0,False
+total_goals_team2,Final,Final Round,0.5909090909090909,1.3333333333333333,26.0,0.01350499372138409,1.0,False
+total_goals_team2,Final,First round,0.5909090909090909,0.9166666666666666,211.5,0.19174102753640299,1.0,False
+total_goals_team2,Final,"First round, Replays",0.5909090909090909,2.5,5.5,0.046051139048872716,1.0,False
+total_goals_team2,Final,Group Stage,0.5909090909090909,0.3580729166666667,9163.0,0.333045955593652,1.0,False
+total_goals_team2,Final,Preliminary round,0.5909090909090909,1.625,30.0,0.0031094266336172717,0.2425352774221472,False
+total_goals_team2,Final,Quarter-final,0.5909090909090909,0.40540540540540543,836.5,0.8058385058437556,1.0,False
+total_goals_team2,Final,Round of 16,0.5909090909090909,0.3977272727272727,1004.0,0.7311821958629798,1.0,False
+total_goals_team2,Final,Round of 32,0.5909090909090909,0.8125,128.0,0.11430375708204094,1.0,False
+total_goals_team2,Final,Semi-final,0.5909090909090909,0.55,432.0,0.8919987676295329,1.0,False
+total_goals_team2,Final,Third Place Play-off,0.5909090909090909,1.0714285714285714,138.0,0.536978965824617,1.0,False
+total_goals_team2,Final,Third-place match,0.5909090909090909,0.4,59.0,0.7765485810472935,1.0,False
+total_goals_team2,Final,Third-place play-off,0.5909090909090909,0.5,19.0,0.7447101490553425,1.0,False
+total_goals_team2,Final Round,First round,1.3333333333333333,0.9166666666666666,100.0,0.13110456068393395,1.0,False
+total_goals_team2,Final Round,"First round, Replays",1.3333333333333333,2.5,4.0,0.5637028616507731,1.0,False
+total_goals_team2,Final Round,Group Stage,1.3333333333333333,0.3580729166666667,4044.0,6.08967533246425e-06,0.0004749946759322115,True
+total_goals_team2,Final Round,Preliminary round,1.3333333333333333,1.625,17.0,0.33380015602823043,1.0,False
+total_goals_team2,Final Round,Quarter-final,1.3333333333333333,0.40540540540540543,376.0,0.0006982679335086203,0.05446489881367238,False
+total_goals_team2,Final Round,Round of 16,1.3333333333333333,0.3977272727272727,457.0,0.0002463418712113657,0.019214665954486527,True
+total_goals_team2,Final Round,Round of 32,1.3333333333333333,0.8125,67.0,0.1378339416032867,1.0,False
+total_goals_team2,Final Round,Semi-final,1.3333333333333333,0.55,201.0,0.002846137830777433,0.22199875080063977,False
+total_goals_team2,Final Round,Third Place Play-off,1.3333333333333333,1.0714285714285714,62.0,0.08692285540343646,1.0,False
+total_goals_team2,Final Round,Third-place match,1.3333333333333333,0.4,25.0,0.066124301125868,1.0,False
+total_goals_team2,Final Round,Third-place play-off,1.3333333333333333,0.5,10.0,0.17793172526825463,1.0,False
+total_goals_team2,First round,"First round, Replays",0.9166666666666666,2.5,10.0,0.166037684967131,1.0,False
+total_goals_team2,First round,Group Stage,0.9166666666666666,0.3580729166666667,11982.5,0.00040655749396564973,0.03171148452932068,True
+total_goals_team2,First round,Preliminary round,0.9166666666666666,1.625,47.0,0.026389102869406343,1.0,False
+total_goals_team2,First round,Quarter-final,0.9166666666666666,0.40540540540540543,1104.5,0.03139268966381953,1.0,False
+total_goals_team2,First round,Round of 16,0.9166666666666666,0.3977272727272727,1331.5,0.01697472865061892,1.0,False
+total_goals_team2,First round,Round of 32,0.9166666666666666,0.8125,183.0,0.801324872198411,1.0,False
+total_goals_team2,First round,Semi-final,0.9166666666666666,0.55,579.0,0.11707884243342474,1.0,False
+total_goals_team2,First round,Third Place Play-off,0.9166666666666666,1.0714285714285714,182.5,0.6401129109208517,1.0,False
+total_goals_team2,First round,Third-place match,0.9166666666666666,0.4,76.0,0.3227277961820416,1.0,False
+total_goals_team2,First round,Third-place play-off,0.9166666666666666,0.5,27.0,0.7945021410143256,1.0,False
+total_goals_team2,"First round, Replays",Group Stage,2.5,0.3580729166666667,1415.0,0.003258130599958065,0.25413418679672906,False
+total_goals_team2,"First round, Replays",Preliminary round,2.5,1.625,9.5,0.7728299926844475,1.0,False
+total_goals_team2,"First round, Replays",Quarter-final,2.5,0.40540540540540543,133.5,0.016388681811114678,1.0,False
+total_goals_team2,"First round, Replays",Round of 16,2.5,0.3977272727272727,160.5,0.012074541279077073,0.9418142197680117,False
+total_goals_team2,"First round, Replays",Round of 32,2.5,0.8125,25.5,0.17599566546812317,1.0,False
+total_goals_team2,"First round, Replays",Semi-final,2.5,0.55,70.5,0.03689334900214285,1.0,False
+total_goals_team2,"First round, Replays",Third Place Play-off,2.5,1.0714285714285714,22.5,0.15972433841626588,1.0,False
+total_goals_team2,"First round, Replays",Third-place match,2.5,0.4,9.0,0.13474596713590692,1.0,False
+total_goals_team2,"First round, Replays",Third-place play-off,2.5,0.5,3.5,0.4142161782425252,1.0,False
+total_goals_team2,Group Stage,Preliminary round,0.3580729166666667,1.625,612.0,3.587635186440591e-08,2.798355445423661e-06,True
+total_goals_team2,Group Stage,Quarter-final,0.3580729166666667,0.40540540540540543,26575.0,0.19135644520289685,1.0,False
+total_goals_team2,Group Stage,Round of 16,0.3580729166666667,0.3977272727272727,31991.5,0.2452563556515639,1.0,False
+total_goals_team2,Group Stage,Round of 32,0.3580729166666667,0.8125,3723.0,0.00013779271316072348,0.010747831626536431,True
+total_goals_team2,Group Stage,Semi-final,0.3580729166666667,0.55,13621.5,0.08667995666704692,1.0,False
+total_goals_team2,Group Stage,Third Place Play-off,0.3580729166666667,1.0714285714285714,4401.5,0.09689695267473439,1.0,False
+total_goals_team2,Group Stage,Third-place match,0.3580729166666667,0.4,1896.0,0.9459579991841204,1.0,False
+total_goals_team2,Group Stage,Third-place play-off,0.3580729166666667,0.5,574.5,0.3785337206609569,1.0,False
+total_goals_team2,Preliminary round,Quarter-final,1.625,0.40540540540540543,523.5,2.4075576652884496e-05,0.0018778949789249907,True
+total_goals_team2,Preliminary round,Round of 16,1.625,0.3977272727272727,631.5,7.438017831771441e-06,0.0005801653908781724,True
+total_goals_team2,Preliminary round,Round of 32,1.625,0.8125,101.0,0.016967520166683868,1.0,False
+total_goals_team2,Preliminary round,Semi-final,1.625,0.55,282.0,0.0001747342371323278,0.01362927049632157,True
+total_goals_team2,Preliminary round,Third Place Play-off,1.625,1.0714285714285714,85.0,0.04139998528068932,1.0,False
+total_goals_team2,Preliminary round,Third-place match,1.625,0.4,34.5,0.027592759774005812,1.0,False
+total_goals_team2,Preliminary round,Third-place play-off,1.625,0.5,14.5,0.0832645166635504,1.0,False
+total_goals_team2,Quarter-final,Round of 16,0.40540540540540543,0.3977272727272727,3303.5,0.838168786826642,1.0,False
+total_goals_team2,Quarter-final,Round of 32,0.40540540540540543,0.8125,398.5,0.014484172266623655,1.0,False
+total_goals_team2,Quarter-final,Semi-final,0.40540540540540543,0.55,1414.5,0.6281780619096335,1.0,False
+total_goals_team2,Quarter-final,Third Place Play-off,0.40540540540540543,1.0714285714285714,452.5,0.3498618897440888,1.0,False
+total_goals_team2,Quarter-final,Third-place match,0.40540540540540543,0.4,193.0,0.8454527873865263,1.0,False
+total_goals_team2,Quarter-final,Third-place play-off,0.40540540540540543,0.5,61.5,0.6197932393853804,1.0,False
+total_goals_team2,Round of 16,Round of 32,0.3977272727272727,0.8125,454.5,0.00616379797056056,0.4807762417037237,False
+total_goals_team2,Round of 16,Semi-final,0.3977272727272727,0.55,1650.0,0.4750873777140143,1.0,False
+total_goals_team2,Round of 16,Third Place Play-off,0.3977272727272727,1.0714285714285714,532.5,0.30243904701644875,1.0,False
+total_goals_team2,Round of 16,Third-place match,0.3977272727272727,0.4,227.5,0.876271029772274,1.0,False
+total_goals_team2,Round of 16,Third-place play-off,0.3977272727272727,0.5,70.5,0.5476418193564345,1.0,False
+total_goals_team2,Round of 32,Semi-final,0.8125,0.55,414.0,0.05345527079460079,1.0,False
+total_goals_team2,Round of 32,Third Place Play-off,0.8125,1.0714285714285714,130.0,0.4294830453756395,1.0,False
+total_goals_team2,Round of 32,Third-place match,0.8125,0.4,53.5,0.2442988930678075,1.0,False
+total_goals_team2,Round of 32,Third-place play-off,0.8125,0.5,19.5,0.647838313975932,1.0,False
+total_goals_team2,Semi-final,Third Place Play-off,0.55,1.0714285714285714,258.5,0.6191128774908752,1.0,False
+total_goals_team2,Semi-final,Third-place match,0.55,0.4,108.5,0.7230493546465061,1.0,False
+total_goals_team2,Semi-final,Third-place play-off,0.55,0.5,35.0,0.7490351844417564,1.0,False
+total_goals_team2,Third Place Play-off,Third-place match,1.0714285714285714,0.4,41.0,0.5368544388261874,1.0,False
+total_goals_team2,Third Place Play-off,Third-place play-off,1.0714285714285714,0.5,13.5,1.0,1.0,False
+total_goals_team2,Third-place match,Third-place play-off,0.4,0.5,4.0,0.809149834631498,1.0,False
