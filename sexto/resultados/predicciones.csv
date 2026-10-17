@@ -1,0 +1,215 @@
+real,predicho,correcto
+Empate,Gana equipo 1,False
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Empate,Gana equipo 1,False
+Empate,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 2,True
+Gana equipo 1,Gana equipo 1,True
+Empate,Gana equipo 1,False
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 2,Gana equipo 1,False
+Empate,Gana equipo 1,False
+Empate,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Empate,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Empate,Gana equipo 1,False
+Gana equipo 2,Gana equipo 2,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 2,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 2,True
+Empate,Gana equipo 1,False
+Gana equipo 2,Gana equipo 2,True
+Empate,Gana equipo 1,False
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 2,True
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 2,False
+Empate,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Empate,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Empate,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Empate,Gana equipo 2,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 2,Gana equipo 2,True
+Gana equipo 2,Gana equipo 2,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Empate,Gana equipo 1,False
+Empate,Gana equipo 2,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 2,False
+Empate,Gana equipo 1,False
+Gana equipo 2,Gana equipo 2,True
+Gana equipo 2,Gana equipo 2,True
+Gana equipo 2,Gana equipo 2,True
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 1,Gana equipo 2,False
+Gana equipo 1,Gana equipo 1,True
+Empate,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 2,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Empate,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 2,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 2,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Empate,Gana equipo 2,False
+Gana equipo 1,Gana equipo 2,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 2,Gana equipo 2,True
+Empate,Gana equipo 2,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 2,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Empate,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 2,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 2,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 2,False
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 2,True
+Empate,Gana equipo 2,False
+Gana equipo 2,Gana equipo 1,False
+Empate,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 2,True
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Empate,Gana equipo 2,False
+Gana equipo 1,Gana equipo 1,True
+Empate,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 2,True
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 2,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 2,True
+Gana equipo 1,Gana equipo 1,True
+Empate,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Empate,Gana equipo 1,False
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 1,Gana equipo 2,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Empate,Gana equipo 1,False
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 1,Gana equipo 2,False
+Gana equipo 1,Gana equipo 1,True
+Empate,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 2,True
+Empate,Gana equipo 1,False
+Empate,Gana equipo 1,False
+Gana equipo 2,Gana equipo 1,False
+Empate,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 2,Gana equipo 2,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Empate,Gana equipo 1,False
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 2,Gana equipo 1,False
+Empate,Gana equipo 1,False
+Empate,Gana equipo 2,False
+Gana equipo 1,Gana equipo 1,True
+Empate,Gana equipo 1,False
+Gana equipo 1,Gana equipo 2,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Gana equipo 1,Gana equipo 2,False
+Empate,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Gana equipo 2,Gana equipo 1,False
+Empate,Gana equipo 1,False
+Gana equipo 1,Gana equipo 1,True
+Empate,Gana equipo 1,False

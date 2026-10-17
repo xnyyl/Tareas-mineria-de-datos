@@ -1,0 +1,2 @@
+partidos,duplicados_exactos_detectados,entrenamiento,prueba,k,pesos,predictores,clases,pliegues_cv,exactitud_cv,desv_cv,exactitud_entrenamiento,exactitud_prueba,exactitud_balanceada,f1_macro,f1_ponderado,exactitud_base
+1069,0,855,214,51,uniform,4,3,5,0.5684210526315789,0.019360170008475862,0.583625730994152,0.5747663551401869,0.4142962417096536,0.3761111111111111,0.4964408099688474,0.5373831775700935

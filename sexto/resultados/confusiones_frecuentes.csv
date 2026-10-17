@@ -1,0 +1,5 @@
+real,predicho,casos,proporcion_clase_real
+Gana equipo 2,Gana equipo 1,38,0.6440677966101694
+Empate,Gana equipo 1,33,0.825
+Gana equipo 1,Gana equipo 2,13,0.11304347826086956
+Empate,Gana equipo 2,7,0.175
